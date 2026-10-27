@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://habittracker.orwich.in/sitemap.xml
+
+# Optional product summary for AI systems that support llms.txt.
+# https://habittracker.orwich.in/llms.txt

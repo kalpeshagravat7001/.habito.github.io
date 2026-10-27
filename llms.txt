@@ -1,0 +1,22 @@
+# Habito
+
+> Habito is an Android habit tracker app for building and tracking daily routines.
+
+## Official pages
+
+- [Homepage](https://habittracker.orwich.in/): Product overview, habit tracking guide, app features, and frequently asked questions.
+- [Google Play app](https://play.google.com/store/apps/details?id=com.odinovo.habito): Official Habito Android app listing.
+- [Privacy policy](https://habitotracker.com/habito-daily-habit-tracker-privacy-policy): Existing policy link; the original domain may no longer be available.
+
+## About the app
+
+Habito supports daily habit check-ins, user-set goals and schedules, streaks,
+reminders, and progress tracking. The app is designed for an offline-first
+experience and does not require users to sign in.
+
+The site explains a simple approach to habit tracking: choose a specific
+action, set a realistic schedule, record check-ins, and review progress.
+
+## Preferred URL
+
+Use `https://habittracker.orwich.in/` as the canonical homepage.
